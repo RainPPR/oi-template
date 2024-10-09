@@ -1,4 +1,4 @@
-## `monotone_queue.hpp`：优先队列
+## `monotone_queue.hpp`：单调队列
 
 + `monotone_queue<Type, Compare>`
 + `push`：插入一个数
